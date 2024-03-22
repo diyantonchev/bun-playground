@@ -1,0 +1,4 @@
+someOtherFile.ts
+index.ts
+andAnotherFile.ts
+someFile.ts
